@@ -3,7 +3,7 @@ package com.venkat.javabasics;
 class Helper{
 	
 	public String print() {
-		return "Hello, I am Venkat, practincing Java!!";
+		return "Hello, I am Venkat, practiccing Java!!";
 	}
 }
 
