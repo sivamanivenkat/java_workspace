@@ -1,0 +1,2 @@
+I am writing this using Buffered Writer!!!
+It is one more way to write into a file.
